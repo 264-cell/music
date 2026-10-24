@@ -1,0 +1,7 @@
+node_modules/
+out/
+public/source/*.mp4
+public/source/*.m4a
+public/source/*.aac
+public/source/*.wav
+.env*
